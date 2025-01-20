@@ -3,7 +3,7 @@
 - 👀 I’m interested in Algorithms and Artificial Intelligence.
 - 🌱 I’m currently learning advanced algorithms for competitive programming.
 - 🤓 I’m looking to collaborate on a music player project implemented in C++.
-- 🎈 I’m currently a contestant in the ICPC Mexico Finals 2024.
+- 🎈 I’m currently a contestant in the ICPC Mexico Grand Prix 2025.
 - ⚡ Fun fact: I can sing the entire "Blank Space" by Taylor Swift.
 
 - 📫 How to reach me **DavidBrnb@hotmail.com**
